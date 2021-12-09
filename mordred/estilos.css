@@ -1,0 +1,16 @@
+.fuente{
+    font-family: 'Praise', cursive;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.fondo{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(242,23,23,1) 81%, rgba(255,255,255,1) 100%);
+}
+
+.fondobanner {
+    background-image: url("img/mordre.png");
+    height: 300px;
+    background-attachment: fixed;
+    background-position: top center;
+}
